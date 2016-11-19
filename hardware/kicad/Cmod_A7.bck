@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +1.0V
+D 1V0
+$ENDCMP
+#
+$CMP GND
+K POWER, PWR
+$ENDCMP
+#
+$CMP MBT3904DW1T1
+D 40.3mV Vce, 0.2A Ic, 2x NPN, SC−88/SC70−6/SOT−363
+K MBT3904 NPN Transistor Array
+$ENDCMP
+#
+$CMP MOSFET
+D N-Channel MOSFET
+K N-Channel MOSFET Logic Level
+$ENDCMP
+#
+$CMP VCC
+D 3V3
+K POWER, PWR
+$ENDCMP
+#
+#End Doc Library
