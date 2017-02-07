@@ -1,0 +1,2225 @@
+Info: Reading netlist file "C:\sdr\SDR\noob-sdr\noob-sdr_new.net".
+
+Info: Using references to match components and footprints.
+
+* Warning: component 'C219': board footprint 'gsg-modules:0603', netlist footprint 'gsg-modules:0402'
+
+Info: Checking netlist component footprint "C1:/5845A0A1/584628A5:gsg-modules:0402".
+
+Changing component "C1:/5845A0A1/584628A5" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C2:/5845A0A1/5846289D:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C3:/5845A0A1/584628B2:gsg-modules:0402".
+
+Changing component "C3:/5845A0A1/584628B2" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C4:/5845A0A1/58462A66:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C5:/5845A0A1/58462A6E:gsg-modules:0402".
+
+Changing component "C5:/5845A0A1/58462A6E" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C6:/5845A0A1/584628F5:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C7:/5845A0A1/58462948:gsg-modules:0402".
+
+Changing component "C7:/5845A0A1/58462948" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C8:/5845A0A1/5846294F:gsg-modules:0402".
+
+Changing component "C8:/5845A0A1/5846294F" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C9:/5845A0A1/58462956:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C10:/5845A0A1/5846295D:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C11:/5845A0A1/58462908:gsg-modules:0402".
+
+Changing component "C11:/5845A0A1/58462908" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C12:/5845A0A1/58462B93:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C13:/5845A0A1/58462A83:gsg-modules:0402".
+
+Changing component "C13:/5845A0A1/58462A83" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C14:/5845A0A1/584628D3:gsg-modules:0402".
+
+Changing component "C14:/5845A0A1/584628D3" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C15:/5845A0A1/58462B6B:gsg-modules:0402".
+
+Changing component "C15:/5845A0A1/58462B6B" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C16:/5845A0A1/58462B9B:gsg-modules:0402".
+
+Changing component "C16:/5845A0A1/58462B9B" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C17:/5845A0A1/58462B41:gsg-modules:0402".
+
+Changing component "C17:/5845A0A1/58462B41" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C18:/5845A0A1/58462A7B:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C19:/5845A0A1/58462A90:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C20:/5845A0A1/58462B18:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C21:/5845A0A1/584628E0:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C22:/5845A0A1/58462BA8:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C23:/5845A0A1/58462A53:gsg-modules:0402".
+
+Changing component "C23:/5845A0A1/58462A53" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C24:/5845A0A1/58462B79:gsg-modules:0402".
+
+Changing component "C24:/5845A0A1/58462B79" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C25:/5845A0A1/584628E7:gsg-modules:0402".
+
+Changing component "C25:/5845A0A1/584628E7" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C26:/5845A0A1/58462B2C:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C27:/5845A0A1/58462B63:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C28:/5845A0A1/58462A4B:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C29:/5845A0A1/58462AA5:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C30:/5845A0A1/58462A9E:gsg-modules:0402".
+
+Changing component "C30:/5845A0A1/58462A9E" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C31:/5845A0A1/5846298D:gsg-modules:0402".
+
+Changing component "C31:/5845A0A1/5846298D" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C32:/5845A0A1/58462994:gsg-modules:0402".
+
+Changing component "C32:/5845A0A1/58462994" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C33:/5845A0A1/5846299B:gsg-modules:0402".
+
+Changing component "C33:/5845A0A1/5846299B" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C34:/5845A0A1/584629A2:gsg-modules:0402".
+
+Changing component "C34:/5845A0A1/584629A2" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C35:/5845A0A1/584629DF:gsg-modules:0402".
+
+Changing component "C35:/5845A0A1/584629DF" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C36:/5845A0A1/584629EC:gsg-modules:0402".
+
+Changing component "C36:/5845A0A1/584629EC" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C37:/5845A0A1/58462B55:gsg-modules:0402".
+
+Changing component "C37:/5845A0A1/58462B55" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C38:/5845A0A1/58462A3E:gsg-modules:0402".
+
+Changing component "C38:/5845A0A1/58462A3E" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C39:/5845A0A1/58462AE3:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C40:/5845A0A1/58462AD5:gsg-modules:0402".
+
+Changing component "C40:/5845A0A1/58462AD5" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C41:/5845A0A1/58462A2F:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C42:/5845A0A1/58462BCB:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C43:/5845A0A1/58462ACD:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C44:/5845A0A1/58462A22:gsg-modules:0402".
+
+Changing component "C44:/5845A0A1/58462A22" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C45:/5845A0A1/58462BD9:gsg-modules:0402".
+
+Changing component "C45:/5845A0A1/58462BD9" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C46:/5845A0A1/58462E4D:gsg-modules:0402".
+
+Changing component "C46:/5845A0A1/58462E4D" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C47:/5845A0A1/58462AB2:gsg-modules:0402".
+
+Changing component "C47:/5845A0A1/58462AB2" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C48:/5845A0A1/58462AEA:gsg-modules:0402".
+
+Changing component "C48:/5845A0A1/58462AEA" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C49:/5845A0A1/58462C0E:gsg-modules:0402".
+
+Changing component "C49:/5845A0A1/58462C0E" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C50:/5845A0A1/58462BE7:gsg-modules:0402".
+
+Changing component "C50:/5845A0A1/58462BE7" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C51:/5845A0A1/58462C50:gsg-modules:0402".
+
+Changing component "C51:/5845A0A1/58462C50" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C52:/5845A0A1/58462E1B:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C53:/5845A0A1/58462B86:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C54:/5845A0A1/58462C22:gsg-modules:0402".
+
+Changing component "C54:/5845A0A1/58462C22" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C55:/5845A0A1/58462C2F:gsg-modules:0402".
+
+Changing component "C55:/5845A0A1/58462C2F" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C56:/5845A0A1/58462C86:gsg-modules:0402".
+
+Changing component "C56:/5845A0A1/58462C86" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C57:/5845A0A1/58462E96:gsg-modules:0402".
+
+Changing component "C57:/5845A0A1/58462E96" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C58:/5845A0A1/58462E9D:gsg-modules:0402".
+
+Changing component "C58:/5845A0A1/58462E9D" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C59:/5845A0A1/58462EB2:gsg-modules:0402".
+
+Changing component "C59:/5845A0A1/58462EB2" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C60:/5845A0A1/58462EB9:gsg-modules:0402".
+
+Changing component "C60:/5845A0A1/58462EB9" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C61:/5845A0A1/58462EC0:gsg-modules:0402".
+
+Changing component "C61:/5845A0A1/58462EC0" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C62:/5845A0A1/58462EC7:gsg-modules:0402".
+
+Changing component "C62:/5845A0A1/58462EC7" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C63:/5845A0A1/58462EA4:gsg-modules:0402".
+
+Changing component "C63:/5845A0A1/58462EA4" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C64:/5845A0A1/58462E2E:gsg-modules:0402".
+
+Changing component "C64:/5845A0A1/58462E2E" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C65:/5845A0A1/58462C6B:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C66:/5845A0A1/58462DE6:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C67:/5845A0A1/58462CA0:gsg-modules:0402".
+
+Changing component "C67:/5845A0A1/58462CA0" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C68:/5845A0A1/58462C93:gsg-modules:0402".
+
+Changing component "C68:/5845A0A1/58462C93" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C69:/5845A0A1/58462DD9:gsg-modules:0402".
+
+Changing component "C69:/5845A0A1/58462DD9" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C70:/5845A0A1/58462E6D:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C71:/5845A0A1/58462DCB:gsg-modules:0402".
+
+Changing component "C71:/5845A0A1/58462DCB" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C72:/5845A0A1/58462ECE:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C73:/5845A0A1/58462E01:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C74:/5845A0A1/58462EAB:gsg-modules:0402".
+
+Changing component "C74:/5845A0A1/58462EAB" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C75:/584A0407/584A3749:gsg-modules:0402".
+
+Changing component "C75:/584A0407/584A3749" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C76:/584A0407/584A37BB:gsg-modules:0402".
+
+Changing component "C76:/584A0407/584A37BB" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C77:/584A0407/584A3852:gsg-modules:0402".
+
+Changing component "C77:/584A0407/584A3852" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C78:/584A0407/584A3507:gsg-modules:0402".
+
+Changing component "C78:/584A0407/584A3507" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C79:/584A0407/584A34AE:gsg-modules:0402".
+
+Changing component "C79:/584A0407/584A34AE" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C80:/584A0407/584A367B:gsg-modules:0402".
+
+Changing component "C80:/584A0407/584A367B" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C81:/584A0407/584A315F:gsg-modules:0402".
+
+Changing component "C81:/584A0407/584A315F" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C82:/584A0407/584A3681:gsg-modules:0402".
+
+Changing component "C82:/584A0407/584A3681" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C83:/584A0407/584A32C2:gsg-modules:0402".
+
+Changing component "C83:/584A0407/584A32C2" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C84:/584A0407/584A35AA:gsg-modules:0402".
+
+Changing component "C84:/584A0407/584A35AA" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C85:/584A0407/584A3384:gsg-modules:0402".
+
+Changing component "C85:/584A0407/584A3384" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C86:/584A0407/584A3703:gsg-modules:0402".
+
+Changing component "C86:/584A0407/584A3703" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C87:/584A0407/584A338A:gsg-modules:0402".
+
+Changing component "C87:/584A0407/584A338A" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C88:/584A0407/584A0AB4:gsg-modules:0402".
+
+Changing component "C88:/584A0407/584A0AB4" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C89:/584A0407/584AA418:gsg-modules:0402".
+
+Changing component "C89:/584A0407/584AA418" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C90:/584A0407/584AAB23:gsg-modules:0402".
+
+Changing component "C90:/584A0407/584AAB23" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C92:/584A0407/584ACA7D:gsg-modules:0402".
+
+Changing component "C92:/584A0407/584ACA7D" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C93:/584A0407/584A0828:gsg-modules:0402".
+
+Changing component "C93:/584A0407/584A0828" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C94:/584A0407/584A08A0:gsg-modules:0402".
+
+Changing component "C94:/584A0407/584A08A0" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C95:/584A0407/584A09BF:gsg-modules:0402".
+
+Changing component "C95:/584A0407/584A09BF" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C96:/584A0407/584A09C5:gsg-modules:0402".
+
+Changing component "C96:/584A0407/584A09C5" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C97:/584A0407/584A0A92:gsg-modules:0402".
+
+Changing component "C97:/584A0407/584A0A92" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C98:/584A0407/584A0A8C:gsg-modules:0402".
+
+Changing component "C98:/584A0407/584A0A8C" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C99:/584A0407/584A09F8:gsg-modules:0402".
+
+Changing component "C99:/584A0407/584A09F8" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C100:/584A0407/584A062E:gsg-modules:0402".
+
+Changing component "C100:/584A0407/584A062E" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C101:/584A0407/584A070D:gsg-modules:0402".
+
+Changing component "C101:/584A0407/584A070D" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C102:/584A0407/584A0713:gsg-modules:0402".
+
+Changing component "C102:/584A0407/584A0713" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C103:/584A0407/584B9DA4:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C104:/588ADFA8/588B2AF4:gsg-modules:0402".
+
+Changing component "C104:/588ADFA8/588B2AF4" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C105:/584A0407/584BA6F5:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C106:/584A0407/584BBE14:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C107:/584A0407/584B58BE:gsg-modules:0402".
+
+Changing component "C107:/584A0407/584B58BE" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C108:/584A0407/584BBE1A:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C109:/584A0407/584C7B93:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C110:/584A0407/584C626D:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C111:/584A0407/584C9A44:gsg-modules:0402".
+
+Changing component "C111:/584A0407/584C9A44" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C112:/584A0407/584C7EE8:gsg-modules:0402".
+
+Changing component "C112:/584A0407/584C7EE8" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C113:/584A0407/584C6872:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C114:/584A0407/584E2AEC:gsg-modules:0402".
+
+Changing component "C114:/584A0407/584E2AEC" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C115:/584A0407/584E2AF2:gsg-modules:0402".
+
+Changing component "C115:/584A0407/584E2AF2" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C116:/584A0407/584D3E4F:gsg-modules:0402".
+
+Changing component "C116:/584A0407/584D3E4F" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C117:/584A0407/584D3E49:gsg-modules:0402".
+
+Changing component "C117:/584A0407/584D3E49" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C118:/584A0407/584D3C7F:gsg-modules:0402".
+
+Changing component "C118:/584A0407/584D3C7F" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C119:/584A0407/584D283F:gsg-modules:0402".
+
+Changing component "C119:/584A0407/584D283F" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C120:/588ADFA8/588B29AA:gsg-modules:0402".
+
+Changing component "C120:/588ADFA8/588B29AA" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C121:/588ADFA8/588B2628:gsg-modules:0402".
+
+Changing component "C121:/588ADFA8/588B2628" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C122:/588ADFA8/588B93AA:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C123:/588ADFA8/588BA8FE:gsg-modules:0402".
+
+Changing component "C123:/588ADFA8/588BA8FE" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C124:/588ADFA8/588BB3AF:gsg-modules:0402".
+
+Changing component "C124:/588ADFA8/588BB3AF" pin "1" net name from "Net-(C124-Pad1)" to "+1V0".
+
+Info: Checking netlist component footprint "C125:/588ADFA8/588BC606:Capacitors_SMD:C_1206".
+
+Changing component "C125:/588ADFA8/588BC606" pin "1" net name from "Net-(C124-Pad1)" to "+1V0".
+
+Changing component "C125:/588ADFA8/588BC606" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C126:/588ADFA8/588BC7C7:Capacitors_SMD:C_1210".
+
+Changing component "C126:/588ADFA8/588BC7C7" pin "1" net name from "Net-(C124-Pad1)" to "+1V0".
+
+Changing component "C126:/588ADFA8/588BC7C7" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C127:/58527ECC/585285EC:gsg-modules:0402".
+
+Changing component "C127:/58527ECC/585285EC" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C128:/58527ECC/58528164:gsg-modules:0402".
+
+Changing component "C128:/58527ECC/58528164" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C129:/58527ECC/58557595:gsg-modules:0402".
+
+Changing component "C129:/58527ECC/58557595" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C130:/58527ECC/5855759B:gsg-modules:0402".
+
+Changing component "C130:/58527ECC/5855759B" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C131:/58527ECC/585575A1:gsg-modules:0402".
+
+Changing component "C131:/58527ECC/585575A1" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C132:/58527ECC/585575A7:gsg-modules:0402".
+
+Changing component "C132:/58527ECC/585575A7" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C133:/58527ECC/585575AD:gsg-modules:0402".
+
+Changing component "C133:/58527ECC/585575AD" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C134:/58527ECC/585575B3:gsg-modules:0402".
+
+Changing component "C134:/58527ECC/585575B3" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C135:/58527ECC/585575B9:gsg-modules:0402".
+
+Changing component "C135:/58527ECC/585575B9" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C136:/58527ECC/58557781:gsg-modules:0402".
+
+Changing component "C136:/58527ECC/58557781" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C137:/58527ECC/58557787:gsg-modules:0402".
+
+Changing component "C137:/58527ECC/58557787" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C138:/58527ECC/5855778D:gsg-modules:0402".
+
+Changing component "C138:/58527ECC/5855778D" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C139:/58527ECC/58557793:gsg-modules:0402".
+
+Changing component "C139:/58527ECC/58557793" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C140:/58527ECC/58557799:gsg-modules:0402".
+
+Changing component "C140:/58527ECC/58557799" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C141:/58527ECC/5855779F:gsg-modules:0402".
+
+Changing component "C141:/58527ECC/5855779F" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C142:/58527ECC/585577A5:gsg-modules:0402".
+
+Changing component "C142:/58527ECC/585577A5" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C143:/58527ECC/58540E21:gsg-modules:0402".
+
+Changing component "C143:/58527ECC/58540E21" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C144:/58527ECC/58540ECB:gsg-modules:0402".
+
+Changing component "C144:/58527ECC/58540ECB" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C145:/58527ECC/5853C0DA:gsg-modules:0402".
+
+Changing component "C145:/58527ECC/5853C0DA" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C146:/58527ECC/5853D6C7:gsg-modules:0402".
+
+Changing component "C146:/58527ECC/5853D6C7" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C147:/5856A5C9/5857D611:gsg-modules:0402".
+
+Changing component "C147:/5856A5C9/5857D611" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C148:/5856A5C9/5857D6D0:gsg-modules:0402".
+
+Changing component "C148:/5856A5C9/5857D6D0" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C149:/5856A5C9/585742B0:gsg-modules:0402".
+
+Changing component "C149:/5856A5C9/585742B0" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C150:/5856A5C9/5857439B:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C151:/5856A5C9/5856F4C8:gsg-modules:0402".
+
+Changing component "C151:/5856A5C9/5856F4C8" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C152:/5856A5C9/5856F6DE:gsg-modules:0402".
+
+Changing component "C152:/5856A5C9/5856F6DE" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C153:/5856A5C9/5857E3DF:gsg-modules:0402".
+
+Changing component "C153:/5856A5C9/5857E3DF" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C154:/5856A5C9/5857E4CA:gsg-modules:0402".
+
+Changing component "C154:/5856A5C9/5857E4CA" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C155:/5856A5C9/5857E574:gsg-modules:0402".
+
+Changing component "C155:/5856A5C9/5857E574" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C156:/5856A5C9/5857E65F:gsg-modules:0402".
+
+Changing component "C156:/5856A5C9/5857E65F" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C157:/5856A5C9/5857E76F:gsg-modules:0402".
+
+Changing component "C157:/5856A5C9/5857E76F" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C158:/5856A5C9/5857E775:gsg-modules:0402".
+
+Changing component "C158:/5856A5C9/5857E775" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C159:/5856A5C9/5857E88B:gsg-modules:0402".
+
+Changing component "C159:/5856A5C9/5857E88B" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C160:/5856A5C9/5857E885:gsg-modules:0402".
+
+Changing component "C160:/5856A5C9/5857E885" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C161:/5856A5C9/5857E931:gsg-modules:0402".
+
+Changing component "C161:/5856A5C9/5857E931" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C162:/5856A5C9/58575E77:gsg-modules:0402".
+
+Changing component "C162:/5856A5C9/58575E77" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C162:/5856A5C9/58575E77" pin "1" net name from "Net-(C162-Pad1)" to "+1V0".
+
+Info: Checking netlist component footprint "C163:/5856A5C9/58575E04:gsg-modules:0402".
+
+Changing component "C163:/5856A5C9/58575E04" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C163:/5856A5C9/58575E04" pin "1" net name from "Net-(C162-Pad1)" to "+1V0".
+
+Info: Checking netlist component footprint "C164:/5856A5C9/58575D5F:gsg-modules:0402".
+
+Changing component "C164:/5856A5C9/58575D5F" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C164:/5856A5C9/58575D5F" pin "1" net name from "Net-(C162-Pad1)" to "+1V0".
+
+Info: Checking netlist component footprint "C165:/5856A5C9/58575AE8:gsg-modules:0402".
+
+Changing component "C165:/5856A5C9/58575AE8" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C165:/5856A5C9/58575AE8" pin "1" net name from "Net-(C162-Pad1)" to "+1V0".
+
+Info: Checking netlist component footprint "C166:/5856A5C9/58575B8C:gsg-modules:0402".
+
+Changing component "C166:/5856A5C9/58575B8C" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C166:/5856A5C9/58575B8C" pin "1" net name from "Net-(C162-Pad1)" to "+1V0".
+
+Info: Checking netlist component footprint "C167:/5856A5C9/585822A1:gsg-modules:0402".
+
+Changing component "C167:/5856A5C9/585822A1" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C168:/5856A5C9/58582413:gsg-modules:0402".
+
+Changing component "C168:/5856A5C9/58582413" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C169:/5856A5C9/58582419:gsg-modules:0402".
+
+Changing component "C169:/5856A5C9/58582419" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C170:/5856A5C9/5858241F:gsg-modules:0402".
+
+Changing component "C170:/5856A5C9/5858241F" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C171:/5856A5C9/58582425:gsg-modules:0402".
+
+Changing component "C171:/5856A5C9/58582425" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C172:/5856A5C9/585824A7:gsg-modules:0402".
+
+Changing component "C172:/5856A5C9/585824A7" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C173:/5856A5C9/585787BA:gsg-modules:0402".
+
+Changing component "C173:/5856A5C9/585787BA" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C173:/5856A5C9/585787BA" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C174:/5856A5C9/58578906:gsg-modules:0402".
+
+Changing component "C174:/5856A5C9/58578906" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C174:/5856A5C9/58578906" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C175:/5856A5C9/58578A00:gsg-modules:0402".
+
+Changing component "C175:/5856A5C9/58578A00" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C175:/5856A5C9/58578A00" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C176:/5856A5C9/58578A06:gsg-modules:0402".
+
+Changing component "C176:/5856A5C9/58578A06" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C176:/5856A5C9/58578A06" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C177:/5856A5C9/585840E5:gsg-modules:0402".
+
+Changing component "C177:/5856A5C9/585840E5" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C178:/5856A5C9/585841DF:gsg-modules:0402".
+
+Changing component "C178:/5856A5C9/585841DF" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C179:/5856A5C9/58584348:gsg-modules:0402".
+
+Changing component "C179:/5856A5C9/58584348" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C180:/5856A5C9/5858434E:gsg-modules:0402".
+
+Changing component "C180:/5856A5C9/5858434E" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C181:/5856A5C9/58584354:gsg-modules:0402".
+
+Changing component "C181:/5856A5C9/58584354" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C182:/5856A5C9/5858435A:gsg-modules:0402".
+
+Changing component "C182:/5856A5C9/5858435A" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C183:/5856A5C9/58584886:gsg-modules:0402".
+
+Changing component "C183:/5856A5C9/58584886" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C184:/5856A5C9/58584880:gsg-modules:0402".
+
+Changing component "C184:/5856A5C9/58584880" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C185:/5856A5C9/58579B1F:gsg-modules:0402".
+
+Changing component "C185:/5856A5C9/58579B1F" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C185:/5856A5C9/58579B1F" pin "1" net name from "Net-(C185-Pad1)" to "+1V8".
+
+Info: Checking netlist component footprint "C186:/5856A5C9/58579C1F:gsg-modules:0402".
+
+Changing component "C186:/5856A5C9/58579C1F" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C186:/5856A5C9/58579C1F" pin "1" net name from "Net-(C185-Pad1)" to "+1V8".
+
+Info: Checking netlist component footprint "C187:/5856A5C9/58579D31:gsg-modules:0402".
+
+Changing component "C187:/5856A5C9/58579D31" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C187:/5856A5C9/58579D31" pin "1" net name from "Net-(C185-Pad1)" to "+1V8".
+
+Info: Checking netlist component footprint "C188:/5856A5C9/58579D37:gsg-modules:0402".
+
+Changing component "C188:/5856A5C9/58579D37" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C188:/5856A5C9/58579D37" pin "1" net name from "Net-(C185-Pad1)" to "+1V8".
+
+Info: Checking netlist component footprint "C189:/5856A5C9/58579DEF:gsg-modules:0402".
+
+Changing component "C189:/5856A5C9/58579DEF" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C189:/5856A5C9/58579DEF" pin "1" net name from "Net-(C185-Pad1)" to "+1V8".
+
+Info: Checking netlist component footprint "C190:/5856A5C9/58579DF5:gsg-modules:0402".
+
+Changing component "C190:/5856A5C9/58579DF5" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C190:/5856A5C9/58579DF5" pin "1" net name from "Net-(C185-Pad1)" to "+1V8".
+
+Info: Checking netlist component footprint "C191:/5856A5C9/58587B8A:gsg-modules:0402".
+
+Changing component "C191:/5856A5C9/58587B8A" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C192:/5856A5C9/58587AC6:gsg-modules:0402".
+
+Changing component "C192:/5856A5C9/58587AC6" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C193:/5856A5C9/58587ACC:gsg-modules:0402".
+
+Changing component "C193:/5856A5C9/58587ACC" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C194:/5856A5C9/58587AD2:gsg-modules:0402".
+
+Changing component "C194:/5856A5C9/58587AD2" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C195:/5856A5C9/58587AD8:gsg-modules:0402".
+
+Changing component "C195:/5856A5C9/58587AD8" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C196:/5856A5C9/58587ADE:gsg-modules:0402".
+
+Changing component "C196:/5856A5C9/58587ADE" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C197:/5856A5C9/58587AE4:gsg-modules:0402".
+
+Changing component "C197:/5856A5C9/58587AE4" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C198:/5856A5C9/5857A549:gsg-modules:0402".
+
+Changing component "C198:/5856A5C9/5857A549" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C198:/5856A5C9/5857A549" pin "1" net name from "Net-(C198-Pad1)" to "+1V0".
+
+Info: Checking netlist component footprint "C199:/5856A5C9/5857A5F6:gsg-modules:0402".
+
+Changing component "C199:/5856A5C9/5857A5F6" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C199:/5856A5C9/5857A5F6" pin "1" net name from "Net-(C198-Pad1)" to "+1V0".
+
+Info: Checking netlist component footprint "C200:/5856A5C9/5857A6F0:gsg-modules:0402".
+
+Changing component "C200:/5856A5C9/5857A6F0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C200:/5856A5C9/5857A6F0" pin "1" net name from "Net-(C198-Pad1)" to "+1V0".
+
+Info: Checking netlist component footprint "C201:/5856A5C9/5857A6F6:gsg-modules:0402".
+
+Changing component "C201:/5856A5C9/5857A6F6" pin "2" net name from "GND" to "+1V0".
+
+Changing component "C201:/5856A5C9/5857A6F6" pin "1" net name from "Net-(C198-Pad1)" to "+1V0".
+
+Info: Checking netlist component footprint "C202:/588ADFA8/588BC95C:Capacitors_SMD:C_1210".
+
+Changing component "C202:/588ADFA8/588BC95C" pin "1" net name from "Net-(C124-Pad1)" to "+1V0".
+
+Changing component "C202:/588ADFA8/588BC95C" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C203:/588ADFA8/588BB4AD:gsg-modules:0402".
+
+Changing component "C203:/588ADFA8/588BB4AD" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C204:/588ADFA8/588C47C9:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C205:/588ADFA8/588C47DD:gsg-modules:0402".
+
+Changing component "C205:/588ADFA8/588C47DD" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C206:/588ADFA8/588C47F7:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C207:/588ADFA8/588C4803:Capacitors_SMD:C_1206".
+
+Changing component "C207:/588ADFA8/588C4803" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C208:/588ADFA8/588C4809:Capacitors_SMD:C_1210".
+
+Changing component "C208:/588ADFA8/588C4809" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C209:/584A0407/58639F92:gsg-modules:0402".
+
+Changing component "C209:/584A0407/58639F92" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C210:/584A0407/586523F1:gsg-modules:0402".
+
+Changing component "C210:/584A0407/586523F1" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C211:/584A0407/586525A8:gsg-modules:0402".
+
+Changing component "C211:/584A0407/586525A8" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C212:/588ADFA8/588C480F:Capacitors_SMD:C_1210".
+
+Changing component "C212:/588ADFA8/588C480F" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C213:/588ADFA8/588B52FB:gsg-modules:0402".
+
+Changing component "C213:/588ADFA8/588B52FB" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C214:/588ADFA8/588B5301:gsg-modules:0402".
+
+Changing component "C214:/588ADFA8/588B5301" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C215:/588ADFA8/588B4848:gsg-modules:0402".
+
+Changing component "C215:/588ADFA8/588B4848" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C216:/588ADFA8/588B4899:gsg-modules:0402".
+
+Changing component "C216:/588ADFA8/588B4899" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C217:/588ADFA8/588C47FD:gsg-modules:0402".
+
+Changing component "C217:/588ADFA8/588C47FD" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C218:/588ADFA8/5890253A:Capacitors_SMD:C_1210".
+
+Changing component "C218:/588ADFA8/5890253A" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C219:/588ADFA8/588CEEB5:gsg-modules:0402".
+
+Changing component "C219:/588ADFA8/588CEEB5" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C220:/588ADFA8/588DB314:gsg-modules:0402".
+
+Changing component "C220:/588ADFA8/588DB314" pin "1" net name from "Net-(C220-Pad1)" to "+1V8".
+
+Info: Checking netlist component footprint "C221:/588ADFA8/588DB320:Capacitors_SMD:C_1206".
+
+Changing component "C221:/588ADFA8/588DB320" pin "1" net name from "Net-(C220-Pad1)" to "+1V8".
+
+Changing component "C221:/588ADFA8/588DB320" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C222:/588ADFA8/588DB326:Capacitors_SMD:C_1210".
+
+Changing component "C222:/588ADFA8/588DB326" pin "1" net name from "Net-(C220-Pad1)" to "+1V8".
+
+Changing component "C222:/588ADFA8/588DB326" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C223:/588ADFA8/588DB32C:Capacitors_SMD:C_1210".
+
+Changing component "C223:/588ADFA8/588DB32C" pin "1" net name from "Net-(C220-Pad1)" to "+1V8".
+
+Changing component "C223:/588ADFA8/588DB32C" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "C224:/588ADFA8/588D3E95:gsg-modules:0402".
+
+Info: Checking netlist component footprint "C225:/588ADFA8/588DB31A:gsg-modules:0402".
+
+Changing component "C225:/588ADFA8/588DB31A" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "D1:/5845A0A1/58462E74:gsg-modules:0402".
+
+Changing component "D1:/5845A0A1/58462E74" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "D2:/584A0407/584D0B5F:gsg-modules:0402".
+
+Changing component "D2:/584A0407/584D0B5F" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "D3:/584A0407/584D736B:gsg-modules:0402".
+
+Changing component "D3:/584A0407/584D736B" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "D4:/58527ECC/585319C7:gsg-modules:LTST-S220".
+
+Changing component "D4:/58527ECC/585319C7" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "D5:/58527ECC/58531E1B:gsg-modules:LTST-S220".
+
+Changing component "D5:/58527ECC/58531E1B" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "D6:/58527ECC/58531ED2:gsg-modules:LTST-S220".
+
+Changing component "D6:/58527ECC/58531ED2" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "D7:/58527ECC/58531EE7:gsg-modules:LTST-S220".
+
+Changing component "D7:/58527ECC/58531EE7" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "D8:/588ADFA8/588F8241:gsg-modules:LTST-S220".
+
+Info: Checking netlist component footprint "D9:/58527ECC/58531FD3:gsg-modules:LTST-S220".
+
+Changing component "D9:/58527ECC/58531FD3" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "D12:/5856A5C9/5856C699:gsg-modules:LTST-S220".
+
+Changing component "D12:/5856A5C9/5856C699" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "FB2:/58527ECC/5852DD15:gsg-modules:0805".
+
+Info: Checking netlist component footprint "FB3:/58527ECC/5852C7FC:gsg-modules:0805".
+
+Changing component "FB3:/58527ECC/5852C7FC" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "FB4:/5856A5C9/58574973:gsg-modules:0805".
+
+Changing component "FB4:/5856A5C9/58574973" pin "1" net name from "Net-(FB4-Pad1)" to "+1V8".
+
+Info: Checking netlist component footprint "FB5:/5856A5C9/58597499:gsg-modules:0805".
+
+Changing component "FB5:/5856A5C9/58597499" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "J1:/58527ECC/5852C795:gsg-modules:USB-MICROB-FCI-10103592-EXT".
+
+Changing component "J1:/58527ECC/5852C795" pin "0" net name from "GND" to "+1V0".
+
+Changing component "J1:/58527ECC/5852C795" pin "0" net name from "GND" to "+1V0".
+
+Changing component "J1:/58527ECC/5852C795" pin "0" net name from "GND" to "+1V0".
+
+Changing component "J1:/58527ECC/5852C795" pin "0" net name from "GND" to "+1V0".
+
+Changing component "J1:/58527ECC/5852C795" pin "0" net name from "GND" to "+1V0".
+
+Changing component "J1:/58527ECC/5852C795" pin "0" net name from "GND" to "+1V0".
+
+Changing component "J1:/58527ECC/5852C795" pin "0" net name from "GND" to "+1V0".
+
+Changing component "J1:/58527ECC/5852C795" pin "0" net name from "GND" to "+1V0".
+
+Changing component "J1:/58527ECC/5852C795" pin "0" net name from "GND" to "+1V0".
+
+Changing component "J1:/58527ECC/5852C795" pin "0" net name from "GND" to "+1V0".
+
+Changing component "J1:/58527ECC/5852C795" pin "0" net name from "GND" to "+1V0".
+
+Changing component "J1:/58527ECC/5852C795" pin "0" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "J2:/5845A0A1/586C154F:gsg-modules:HOLE126MIL-COPPER".
+
+Changing component "J2:/5845A0A1/586C154F" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J2:/5845A0A1/586C154F" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J2:/5845A0A1/586C154F" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J2:/5845A0A1/586C154F" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J2:/5845A0A1/586C154F" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J2:/5845A0A1/586C154F" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J2:/5845A0A1/586C154F" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J2:/5845A0A1/586C154F" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J2:/5845A0A1/586C154F" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "J3:/5845A0A1/586C2972:gsg-modules:HOLE126MIL-COPPER".
+
+Changing component "J3:/5845A0A1/586C2972" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J3:/5845A0A1/586C2972" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J3:/5845A0A1/586C2972" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J3:/5845A0A1/586C2972" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J3:/5845A0A1/586C2972" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J3:/5845A0A1/586C2972" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J3:/5845A0A1/586C2972" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J3:/5845A0A1/586C2972" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J3:/5845A0A1/586C2972" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "J4:/5845A0A1/586C2AB3:gsg-modules:HOLE126MIL-COPPER".
+
+Changing component "J4:/5845A0A1/586C2AB3" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J4:/5845A0A1/586C2AB3" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J4:/5845A0A1/586C2AB3" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J4:/5845A0A1/586C2AB3" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J4:/5845A0A1/586C2AB3" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J4:/5845A0A1/586C2AB3" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J4:/5845A0A1/586C2AB3" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J4:/5845A0A1/586C2AB3" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J4:/5845A0A1/586C2AB3" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "J5:/5845A0A1/586C2AC0:gsg-modules:HOLE126MIL-COPPER".
+
+Changing component "J5:/5845A0A1/586C2AC0" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J5:/5845A0A1/586C2AC0" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J5:/5845A0A1/586C2AC0" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J5:/5845A0A1/586C2AC0" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J5:/5845A0A1/586C2AC0" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J5:/5845A0A1/586C2AC0" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J5:/5845A0A1/586C2AC0" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J5:/5845A0A1/586C2AC0" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J5:/5845A0A1/586C2AC0" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "J6:/5845A0A1/586C2C2D:gsg-modules:HOLE126MIL-COPPER".
+
+Changing component "J6:/5845A0A1/586C2C2D" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J6:/5845A0A1/586C2C2D" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J6:/5845A0A1/586C2C2D" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J6:/5845A0A1/586C2C2D" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J6:/5845A0A1/586C2C2D" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J6:/5845A0A1/586C2C2D" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J6:/5845A0A1/586C2C2D" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J6:/5845A0A1/586C2C2D" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J6:/5845A0A1/586C2C2D" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "J7:/5845A0A1/586C2C3A:gsg-modules:HOLE126MIL-COPPER".
+
+Changing component "J7:/5845A0A1/586C2C3A" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J7:/5845A0A1/586C2C3A" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J7:/5845A0A1/586C2C3A" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J7:/5845A0A1/586C2C3A" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J7:/5845A0A1/586C2C3A" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J7:/5845A0A1/586C2C3A" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J7:/5845A0A1/586C2C3A" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J7:/5845A0A1/586C2C3A" pin "1" net name from "GND" to "+1V0".
+
+Changing component "J7:/5845A0A1/586C2C3A" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "L1:/5845A0A1/584629F9:gsg-modules:0603".
+
+Info: Checking netlist component footprint "L2:/5845A0A1/58462A00:gsg-modules:0603".
+
+Info: Checking netlist component footprint "L3:/5845A0A1/58462E65:gsg-modules:0603".
+
+Info: Checking netlist component footprint "L4:/5845A0A1/58462C1B:gsg-modules:0603".
+
+Info: Checking netlist component footprint "L5:/5845A0A1/58462C58:gsg-modules:0603".
+
+Info: Checking netlist component footprint "L6:/584A0407/58681005:gsg-modules:0402".
+
+Info: Checking netlist component footprint "L7:/588ADFA8/588B9456:noob:NR5040T1R5N".
+
+Changing component "L7:/588ADFA8/588B9456" pin "2" net name from "Net-(C124-Pad1)" to "+1V0".
+
+Info: Checking netlist component footprint "L8:/588ADFA8/588C47CF:noob:NR5040T1R5N".
+
+Info: Checking netlist component footprint "L9:/588ADFA8/588DB2EC:noob:NRS4018T3R3MDGJ".
+
+Changing component "L9:/588ADFA8/588DB2EC" pin "2" net name from "Net-(C220-Pad1)" to "+1V8".
+
+Info: Checking netlist component footprint "P1:/5845A0A1/58462924:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P2:/5845A0A1/5846291D:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P3:/5845A0A1/58462916:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P4:/5845A0A1/58462A14:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P5:/5845A0A1/58462A0D:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P6:/5845A0A1/58462E7B:noob:GSG-SMA-73251-2120".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P6:/5845A0A1/58462E7B" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P7:/5845A0A1/58462F75:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P8:/5845A0A1/58462F3D:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P9:/5845A0A1/58462F7C:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P10:/5845A0A1/58462F83:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P11:/5845A0A1/58462F59:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P12:/5845A0A1/58462F8A:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P13:/5845A0A1/58462F60:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P14:/5845A0A1/58462F67:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P15:/5845A0A1/58462F6E:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P16:/5845A0A1/58462F44:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P17:/5845A0A1/58462F4B:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P18:/5845A0A1/58462F52:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P19:/5845A0A1/58462F03:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P20:/5845A0A1/58462F21:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P21:/5845A0A1/58462F28:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P22:/5845A0A1/58462F2F:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P23:/5845A0A1/58462F36:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P24:/5845A0A1/58462F91:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P25:/584A0407/584ECA32:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P26:/584A0407/584ECA2C:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P27:/584A0407/584ECA26:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P28:/584A0407/584ECA20:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P29:/584A0407/584EBF5F:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P30:/584A0407/584EBF59:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P31:/584A0407/584EBF53:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P32:/584A0407/584EBF4D:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P33:/584A0407/584EBF47:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P34:/584A0407/584EBF41:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P35:/584A0407/584EBF3B:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P36:/584A0407/584EBF35:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P37:/584A0407/584E9AD5:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P38:/584A0407/584E9ACF:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P39:/584A0407/584E9AC9:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P40:/584A0407/584E9AC3:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P41:/584A0407/584E996B:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P42:/584A0407/584E9965:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P43:/584A0407/584E97E0:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P44:/584A0407/584E8780:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P45:/584A0407/584ED98A:gsg-modules:TESTPOINT-50MIL".
+
+Changing component "P45:/584A0407/584ED98A" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P46:/584A0407/584ED984:gsg-modules:TESTPOINT-50MIL".
+
+Changing component "P46:/584A0407/584ED984" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P47:/584A0407/584ED97E:gsg-modules:TESTPOINT-50MIL".
+
+Changing component "P47:/584A0407/584ED97E" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P48:/584A0407/584ED978:gsg-modules:TESTPOINT-50MIL".
+
+Changing component "P48:/584A0407/584ED978" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P49:/584A0407/584ED972:gsg-modules:TESTPOINT-50MIL".
+
+Changing component "P49:/584A0407/584ED972" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P50:/584A0407/584ED96C:gsg-modules:TESTPOINT-50MIL".
+
+Changing component "P50:/584A0407/584ED96C" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P51:/584A0407/584ED966:gsg-modules:TESTPOINT-50MIL".
+
+Changing component "P51:/584A0407/584ED966" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P52:/584A0407/584ED960:gsg-modules:TESTPOINT-50MIL".
+
+Changing component "P52:/584A0407/584ED960" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P53:/584A0407/584ED95A:gsg-modules:TESTPOINT-50MIL".
+
+Changing component "P53:/584A0407/584ED95A" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P54:/584A0407/584ED954:gsg-modules:TESTPOINT-50MIL".
+
+Changing component "P54:/584A0407/584ED954" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P55:/584A0407/584C588B:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P56:/584A0407/587E710E:gsg-modules:HEADER-1x8".
+
+Info: Checking netlist component footprint "P57:/584A0407/584CE565:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P58:/584A0407/584CF3B0:noob:GSG-SMA-73251-2120".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P58:/584A0407/584CF3B0" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P59:/584A0407/584D735E:noob:GSG-SMA-73251-2120".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P59:/584A0407/584D735E" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P60:/584A0407/584D9327:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P61:/58527ECC/5853068F:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P62:/58527ECC/58530991:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P63:/58527ECC/58530A3E:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P64:/58527ECC/58530A44:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P65:/58527ECC/58530AFC:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P66:/58527ECC/58530B02:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P67:/58527ECC/58530B08:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P68:/58527ECC/58530B0E:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P69:/58527ECC/58543AFC:gsg-modules:HEADER-2x13".
+
+Changing component "P69:/58527ECC/58543AFC" pin "4" net name from "GND" to "+1V0".
+
+Changing component "P69:/58527ECC/58543AFC" pin "10" net name from "GND" to "+1V0".
+
+Changing component "P69:/58527ECC/58543AFC" pin "18" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P70:/58527ECC/5852CD20:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P71:/58527ECC/5855CC8A:gsg-modules:HEADER-2x11".
+
+Changing component "P71:/58527ECC/5855CC8A" pin "2" net name from "GND" to "+1V0".
+
+Changing component "P71:/58527ECC/5855CC8A" pin "12" net name from "GND" to "+1V0".
+
+Changing component "P71:/58527ECC/5855CC8A" pin "22" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P72:/58527ECC/5852F1B0:gsg-modules:HEADER-2x5".
+
+Changing component "P72:/58527ECC/5852F1B0" pin "3" net name from "GND" to "+1V0".
+
+Changing component "P72:/58527ECC/5852F1B0" pin "5" net name from "GND" to "+1V0".
+
+Changing component "P72:/58527ECC/5852F1B0" pin "9" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P73:/58527ECC/5852FCCA:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P74:/58527ECC/5852C45C:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P75:/58527ECC/5856032F:gsg-modules:HEADER-2x11".
+
+Changing component "P75:/58527ECC/5856032F" pin "13" net name from "GND" to "+1V0".
+
+Changing component "P75:/58527ECC/5856032F" pin "15" net name from "GND" to "+1V0".
+
+Changing component "P75:/58527ECC/5856032F" pin "19" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "P76:/58527ECC/5853F980:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P77:/58527ECC/5853A0CA:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P78:/58527ECC/5853B42B:gsg-modules:TESTPOINT-50MIL".
+
+Info: Checking netlist component footprint "P79:/58527ECC/5862D9D3:gsg-modules:HEADER-1x6".
+
+Changing component "P79:/58527ECC/5862D9D3" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "Q1:/5845A0A1/58462E39:gsg-modules:SOT23GDS".
+
+Info: Checking netlist component footprint "Q2:/5845A0A1/58462BFA:gsg-modules:SOT23GDS".
+
+Info: Checking netlist component footprint "Q3:/5845A0A1/58462C72:gsg-modules:SOT23GDS".
+
+Info: Checking netlist component footprint "Q4:/588ADFA8/588F56C7:noob:SOT-23".
+
+Changing component "Q4:/588ADFA8/588F56C7" pin "S" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "Q5:/588ADFA8/588E3B9B:noob:SOT-23".
+
+Changing component "Q5:/588ADFA8/588E3B9B" pin "S" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "Q6:/588ADFA8/588E3234:noob:SOT-23".
+
+Changing component "Q6:/588ADFA8/588E3234" pin "S" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R1:/5845A0A1/58462933:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R2:/5845A0A1/58462964:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R3:/5845A0A1/5846293A:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R4:/5845A0A1/58462941:gsg-modules:0402".
+
+Changing component "R4:/5845A0A1/58462941" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R5:/5845A0A1/584629AD:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R6:/5845A0A1/584629B4:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R7:/5845A0A1/58462E40:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R8:/5845A0A1/58462C01:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R9:/5845A0A1/58462C79:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R10:/584A0407/584A7D45:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R11:/584A0407/584A82E6:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R12:/584A0407/584A83C2:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R13:/584A0407/584A8482:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R14:/584A0407/584A8CA8:gsg-modules:0402".
+
+Changing component "R14:/584A0407/584A8CA8" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R15:/584A0407/584A8915:gsg-modules:0402".
+
+Changing component "R15:/584A0407/584A8915" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R16:/584A0407/584A8B1C:gsg-modules:0402".
+
+Changing component "R16:/584A0407/584A8B1C" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R17:/584A0407/584A8BCC:gsg-modules:0402".
+
+Changing component "R17:/584A0407/584A8BCC" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R18:/588ADFA8/588F7858:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R19:/584A0407/584B15F8:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R20:/584A0407/584B18DD:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R21:/584A0407/584B19E1:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R22:/584A0407/584B19E7:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R23:/584A0407/584B6C18:gsg-modules:0402".
+
+Changing component "R23:/584A0407/584B6C18" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R24:/584A0407/584C5F13:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R25:/584A0407/584C609A:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R26:/584A0407/584CD504:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R27:/584A0407/584CD432:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R28:/584A0407/584CBFCF:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R29:/584A0407/584DB22C:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R30:/584A0407/584DB3BA:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R31:/584A0407/584D68FB:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R32:/584A0407/584D1597:gsg-modules:0402".
+
+Changing component "R32:/584A0407/584D1597" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R33:/584A0407/584D6F7E:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R34:/584A0407/584D7D78:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R35:/58527ECC/58531ABD:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R36:/58527ECC/58531E27:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R37:/58527ECC/58531EDE:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R38:/58527ECC/58531EF3:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R39:/588ADFA8/588F6A73:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R40:/58527ECC/58531FDF:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R41:/58527ECC/58528065:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R42:/58527ECC/5852D0C5:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R43:/58527ECC/58528F76:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R44:/58527ECC/5852DA16:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R45:/58527ECC/5852D7A2:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R46:/58527ECC/5852D473:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R47:/58527ECC/5852DB6A:gsg-modules:0402".
+
+Changing component "R47:/58527ECC/5852DB6A" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R48:/58527ECC/5852C1DC:gsg-modules:0402".
+
+Changing component "R48:/58527ECC/5852C1DC" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R49:/58527ECC/58530189:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R50:/58527ECC/5852FE09:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R51:/58527ECC/5852FA96:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R52:/58527ECC/5853668C:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R53:/58527ECC/5853EE6A:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R54:/58527ECC/58536DCA:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R55:/58527ECC/5853679C:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R56:/58527ECC/58566BB3:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R57:/58527ECC/58567F71:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R58:/58527ECC/58536E80:gsg-modules:0402".
+
+Changing component "R58:/58527ECC/58536E80" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R59:/58527ECC/58567A89:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R60:/58527ECC/58567F7B:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R61:/58527ECC/58567B75:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R62:/58527ECC/58567F85:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R63:/58527ECC/58567B7F:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R64:/58527ECC/58567F8F:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R65:/58527ECC/58567D47:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R66:/58527ECC/5853962B:gsg-modules:0402".
+
+Changing component "R66:/58527ECC/5853962B" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R67:/58527ECC/58567D51:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R68:/58527ECC/58567FA3:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R69:/58527ECC/58539CF2:gsg-modules:0402".
+
+Changing component "R69:/58527ECC/58539CF2" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R70:/58527ECC/58567D5B:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R71:/58527ECC/58567FAD:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R72:/58527ECC/5853B41E:gsg-modules:0402".
+
+Changing component "R72:/58527ECC/5853B41E" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R73:/58527ECC/58567D65:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R74:/58527ECC/58567FB7:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R75:/5856A5C9/5856EC9E:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R76:/588ADFA8/588B3412:gsg-modules:0603".
+
+Changing component "R76:/588ADFA8/588B3412" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R77:/588ADFA8/588B3AC9:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R78:/588ADFA8/588BB1F2:gsg-modules:0402".
+
+Changing component "R78:/588ADFA8/588BB1F2" pin "2" net name from "Net-(C124-Pad1)" to "+1V0".
+
+Info: Checking netlist component footprint "R79:/588ADFA8/588BB2F0:gsg-modules:0402".
+
+Changing component "R79:/588ADFA8/588BB2F0" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R80:/588ADFA8/588B52F5:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R81:/588ADFA8/588B47FC:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R82:/588ADFA8/588C47EB:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R83:/588ADFA8/588B5397:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R84:/588ADFA8/588C47F1:gsg-modules:0402".
+
+Changing component "R84:/588ADFA8/588C47F1" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R85:/588ADFA8/588B55F8:gsg-modules:0402".
+
+Changing component "R85:/588ADFA8/588B55F8" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R86:/588ADFA8/588B5661:gsg-modules:0402".
+
+Changing component "R86:/588ADFA8/588B5661" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R87:/588ADFA8/588E4887:Resistors_SMD:R_1206".
+
+Info: Checking netlist component footprint "R88:/588ADFA8/588E44E1:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R89:/588ADFA8/589031EB:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R90:/588ADFA8/588E473D:gsg-modules:0402".
+
+Changing component "R90:/588ADFA8/588E473D" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R91:/5856A5C9/5856BDB3:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R92:/5856A5C9/5856C122:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R93:/5856A5C9/5856C246:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R94:/5856A5C9/5856C287:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R95:/5856A5C9/5856C934:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R96:/5856A5C9/5856CB16:gsg-modules:0402".
+
+Changing component "R96:/5856A5C9/5856CB16" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R97:/5856A5C9/5856CB7A:gsg-modules:0402".
+
+Changing component "R97:/5856A5C9/5856CB7A" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R98:/5856A5C9/5856C588:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R99:/5856A5C9/5856BC01:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R100:/588ADFA8/58902A81:gsg-modules:0402".
+
+Changing component "R100:/588ADFA8/58902A81" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R101:/588ADFA8/588DB308:gsg-modules:0402".
+
+Changing component "R101:/588ADFA8/588DB308" pin "2" net name from "Net-(C220-Pad1)" to "+1V8".
+
+Info: Checking netlist component footprint "R102:/588ADFA8/588D327C:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R103:/588ADFA8/588D26F1:gsg-modules:0402".
+
+Info: Checking netlist component footprint "R104:/588ADFA8/588DB30E:gsg-modules:0402".
+
+Changing component "R104:/588ADFA8/588DB30E" pin "1" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "R105:/588ADFA8/588D7C01:gsg-modules:0402".
+
+Info: Checking netlist component footprint "SW1:/58527ECC/58536457:gsg-modules:SWITCH-FSMRA".
+
+Changing component "SW1:/58527ECC/58536457" pin "0" net name from "GND" to "+1V0".
+
+Changing component "SW1:/58527ECC/58536457" pin "0" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "SW2:/58527ECC/58536388:gsg-modules:SWITCH-FSMRA".
+
+Changing component "SW2:/58527ECC/58536388" pin "2" net name from "GND" to "+1V0".
+
+Changing component "SW2:/58527ECC/58536388" pin "0" net name from "GND" to "+1V0".
+
+Changing component "SW2:/58527ECC/58536388" pin "0" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "SW3:/588ADFA8/58901893:noob:500SSP1S1M1QEB".
+
+Changing component "SW3:/588ADFA8/58901893" pin "3" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "T1:/5845A0A1/584628CC:noob:GSG-B0310J50100AHF".
+
+Info: Checking netlist component footprint "T2:/5845A0A1/58462A1B:noob:GSG-B0310J50100AHF".
+
+Info: Checking netlist component footprint "T3:/584A0407/584BB748:gsg-modules:2500BL14M100".
+
+Changing component "T3:/584A0407/584BB748" pin "2" net name from "GND" to "+1V0".
+
+Changing component "T3:/584A0407/584BB748" pin "5" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "T4:/584A0407/584BBE20:gsg-modules:2500BL14M100".
+
+Changing component "T4:/584A0407/584BBE20" pin "2" net name from "GND" to "+1V0".
+
+Changing component "T4:/584A0407/584BBE20" pin "5" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U1:/5845A0A1/58462880:gsg-modules:SKY13350-385LF".
+
+Changing component "U1:/5845A0A1/58462880" pin "3" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U2:/5845A0A1/58462879:noob:GSG-QFN32".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U2:/5845A0A1/58462879" pin "12" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U3:/5845A0A1/58462895:gsg-modules:SKY13350-385LF".
+
+Changing component "U3:/5845A0A1/58462895" pin "3" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U4:/5845A0A1/58462887:gsg-modules:SKY13350-385LF".
+
+Changing component "U4:/5845A0A1/58462887" pin "3" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U5:/5845A0A1/58462B5C:gsg-modules:SKY13317-373LF".
+
+Changing component "U5:/5845A0A1/58462B5C" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U5:/5845A0A1/58462B5C" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U5:/5845A0A1/58462B5C" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U5:/5845A0A1/58462B5C" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U5:/5845A0A1/58462B5C" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U5:/5845A0A1/58462B5C" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U5:/5845A0A1/58462B5C" pin "0" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U6:/5845A0A1/58462B05:noob:GSG-LP0603".
+
+Changing component "U6:/5845A0A1/58462B05" pin "2" net name from "GND" to "+1V0".
+
+Changing component "U6:/5845A0A1/58462B05" pin "3" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U7:/5845A0A1/5846288E:gsg-modules:SKY13350-385LF".
+
+Changing component "U7:/5845A0A1/5846288E" pin "3" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U8:/5845A0A1/58462B33:gsg-modules:SKY13350-385LF".
+
+Changing component "U8:/5845A0A1/58462B33" pin "3" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U9:/5845A0A1/58462AFE:noob:GSG-HP-DEA".
+
+Changing component "U9:/5845A0A1/58462AFE" pin "4" net name from "GND" to "+1V0".
+
+Changing component "U9:/5845A0A1/58462AFE" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U10:/5845A0A1/58462A36:gsg-modules:SKY13350-385LF".
+
+Changing component "U10:/5845A0A1/58462A36" pin "3" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U11:/5845A0A1/58462AC6:gsg-modules:SKY13350-385LF".
+
+Changing component "U11:/5845A0A1/58462AC6" pin "3" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U12:/5845A0A1/58462BC4:gsg-modules:SOT363".
+
+Changing component "U12:/5845A0A1/58462BC4" pin "1" net name from "GND" to "+1V0".
+
+Changing component "U12:/5845A0A1/58462BC4" pin "2" net name from "GND" to "+1V0".
+
+Changing component "U12:/5845A0A1/58462BC4" pin "4" net name from "GND" to "+1V0".
+
+Changing component "U12:/5845A0A1/58462BC4" pin "5" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U13:/5845A0A1/58462BAF:gsg-modules:SKY13317-373LF".
+
+Changing component "U13:/5845A0A1/58462BAF" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U13:/5845A0A1/58462BAF" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U13:/5845A0A1/58462BAF" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U13:/5845A0A1/58462BAF" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U13:/5845A0A1/58462BAF" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U13:/5845A0A1/58462BAF" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U13:/5845A0A1/58462BAF" pin "0" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U14:/5845A0A1/58462BB6:gsg-modules:SKY13317-373LF".
+
+Changing component "U14:/5845A0A1/58462BB6" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U14:/5845A0A1/58462BB6" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U14:/5845A0A1/58462BB6" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U14:/5845A0A1/58462BB6" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U14:/5845A0A1/58462BB6" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U14:/5845A0A1/58462BB6" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U14:/5845A0A1/58462BB6" pin "0" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U15:/5845A0A1/58462BBD:gsg-modules:SOT363".
+
+Changing component "U15:/5845A0A1/58462BBD" pin "1" net name from "GND" to "+1V0".
+
+Changing component "U15:/5845A0A1/58462BBD" pin "2" net name from "GND" to "+1V0".
+
+Changing component "U15:/5845A0A1/58462BBD" pin "4" net name from "GND" to "+1V0".
+
+Changing component "U15:/5845A0A1/58462BBD" pin "5" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U16:/584A0407/584A53B1:noob:GSG-QFN48-7".
+
+Changing component "U16:/584A0407/584A53B1" pin "5" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "7" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "12" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "17" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "37" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "42" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U16:/584A0407/584A53B1" pin "0" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U17:/584A0407/584A5324:noob:GSG-QFN48-6".
+
+Changing component "U17:/584A0407/584A5324" pin "2" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "22" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "26" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U17:/584A0407/584A5324" pin "0" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U18:/584A0407/584C041B:gsg-modules:QFN20-4".
+
+Changing component "U18:/584A0407/584C041B" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U18:/584A0407/584C041B" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U18:/584A0407/584C041B" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U18:/584A0407/584C041B" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U18:/584A0407/584C041B" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U18:/584A0407/584C041B" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U18:/584A0407/584C041B" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U18:/584A0407/584C041B" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U18:/584A0407/584C041B" pin "0" net name from "GND" to "+1V0".
+
+Changing component "U18:/584A0407/584C041B" pin "0" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U19:/58527ECC/5852827B:gsg-modules:SOIC8-208".
+
+Changing component "U19:/58527ECC/5852827B" pin "4" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U20:/58527ECC/5852C73C:noob:GSG-LXES1TBCC2-004".
+
+Changing component "U20:/58527ECC/5852C73C" pin "2" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U21:/58527ECC/58527ED7:gsg-modules:LQFP144".
+
+Changing component "U21:/58527ECC/58527ED7" pin "4" net name from "GND" to "+1V0".
+
+Changing component "U21:/58527ECC/58527ED7" pin "19" net name from "GND" to "+1V0".
+
+Changing component "U21:/58527ECC/58527ED7" pin "23" net name from "GND" to "+1V0".
+
+Changing component "U21:/58527ECC/58527ED7" pin "40" net name from "GND" to "+1V0".
+
+Changing component "U21:/58527ECC/58527ED7" pin "76" net name from "GND" to "+1V0".
+
+Changing component "U21:/58527ECC/58527ED7" pin "109" net name from "GND" to "+1V0".
+
+Changing component "U21:/58527ECC/58527ED7" pin "135" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U22:/5856A5C9/5856A935:noob:BGA_361".
+
+Changing component "U22:/5856A5C9/5856A935" pin "A1" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "C1" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "E1" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "F1" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "G1" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "W1" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "C2" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "F2" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "P2" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "A3" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "B3" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "C3" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "D3" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "E3" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "F3" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "C4" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "A5" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "B5" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "C6" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "U6" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "A7" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "B7" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "H7" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "G8" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "H8" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "J8" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "K8" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "L8" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "A9" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "B9" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "G9" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "H9" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "J9" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "L9" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "M9" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "N9" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "U9" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "C10" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "G10" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "H10" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "J10" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "L10" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "M10" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "N10" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "A11" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "B11" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "G11" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "H11" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "J11" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "L11" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "M11" net name from "Net-(C198-Pad1)" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "N11" net name from "Net-(C198-Pad1)" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "H12" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "J12" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "N12" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "W12" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "H13" net name from "Net-(C185-Pad1)" to "+1V8".
+
+Changing component "U22:/5856A5C9/5856A935" pin "J13" net name from "Net-(C185-Pad1)" to "+1V8".
+
+Changing component "U22:/5856A5C9/5856A935" pin "M13" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "N13" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "B14" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "E17" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "H18" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "V18" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "A19" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "C19" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "F19" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "L19" net name from "GND" to "+1V0".
+
+Changing component "U22:/5856A5C9/5856A935" pin "T19" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U23:/5856A5C9/5856A96C:noob:BGA_48".
+
+Changing component "U23:/5856A5C9/5856A96C" pin "D1" net name from "GND" to "+1V0".
+
+Changing component "U23:/5856A5C9/5856A96C" pin "E6" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U24:/588ADFA8/588B1B1D:Housings_DFN_QFN:QFN-28-1EP_4x5mm_Pitch0.5mm".
+
+Changing component "U24:/588ADFA8/588B1B1D" pin "7" net name from "GND" to "+1V0".
+
+Changing component "U24:/588ADFA8/588B1B1D" pin "25" net name from "Net-(C124-Pad1)" to "+1V0".
+
+Changing component "U24:/588ADFA8/588B1B1D" pin "29" net name from "GND" to "+1V0".
+
+Changing component "U24:/588ADFA8/588B1B1D" pin "29" net name from "GND" to "+1V0".
+
+Changing component "U24:/588ADFA8/588B1B1D" pin "29" net name from "GND" to "+1V0".
+
+Changing component "U24:/588ADFA8/588B1B1D" pin "29" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "U25:/588ADFA8/588CE5A2:Housings_SSOP:MSOP-8-1EP_3x3mm_Pitch0.65mm".
+
+Changing component "U25:/588ADFA8/588CE5A2" pin "8" net name from "GND" to "+1V0".
+
+Changing component "U25:/588ADFA8/588CE5A2" pin "9" net name from "GND" to "+1V0".
+
+Changing component "U25:/588ADFA8/588CE5A2" pin "9" net name from "GND" to "+1V0".
+
+Changing component "U25:/588ADFA8/588CE5A2" pin "9" net name from "GND" to "+1V0".
+
+Changing component "U25:/588ADFA8/588CE5A2" pin "9" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "X1:/584A0407/584CA624:gsg-modules:XTAL3.2x2.5mm".
+
+Changing component "X1:/584A0407/584CA624" pin "2" net name from "GND" to "+1V0".
+
+Changing component "X1:/584A0407/584CA624" pin "4" net name from "GND" to "+1V0".
+
+Info: Checking netlist component footprint "X2:/58527ECC/5853BBD5:gsg-modules:XTAL-AB26TRQ".
+
+Info: Checking netlist component footprint "X3:/58527ECC/5853BB3E:gsg-modules:XTAL3.2x2.5mm".
+
+Changing component "X3:/58527ECC/5853BB3E" pin "2" net name from "GND" to "+1V0".
+
+Changing component "X3:/58527ECC/5853BB3E" pin "4" net name from "GND" to "+1V0".
+
+Warning: Copper zone (net name 'GND'): net has no pads connected.
